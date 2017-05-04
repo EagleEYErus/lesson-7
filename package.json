@@ -1,0 +1,25 @@
+{
+  "name": "lesson-7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EagleEYErus/lesson-7.git"
+  },
+  "author": "Alexander Saprykin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EagleEYErus/lesson-7/issues"
+  },
+  "homepage": "https://github.com/EagleEYErus/lesson-7#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "md5": "^2.2.1",
+    "mysql": "^2.13.0",
+    "sequelize": "^3.30.4"
+  }
+}
